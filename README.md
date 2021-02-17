@@ -1,1 +1,2 @@
 # DjangoTestProdMag
+# EBSTestDjangoProdmagApi
